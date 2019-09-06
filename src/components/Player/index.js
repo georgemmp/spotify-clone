@@ -1,7 +1,9 @@
 import React from 'react';
 import Slider from 'rc-slider';
 
-import { Container, Current, Volume, Progress, Controls, Time, ProgressSlider } from './styles';
+import {
+ Container, Current, Volume, Progress, Controls, Time, ProgressSlider
+} from './styles';
 
 import VolumeIcon from '../../assets/images/volume.svg';
 import ShuffleIcon from '../../assets/images/shuffle.svg';
