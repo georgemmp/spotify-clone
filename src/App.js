@@ -1,8 +1,6 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 
-import './config/reactotron';
-
 import GlobalStyle from './styles/global';
 
 import Sidebar from './components/Sidebar';
